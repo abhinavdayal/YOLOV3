@@ -40,7 +40,8 @@ After training for 300 Epochs, results look awesome!
 ![image](https://raw.githubusercontent.com/abhinavdayal/YOLOV3/master/output/img260.jpg)
 ![image](https://raw.githubusercontent.com/abhinavdayal/YOLOV3/master/output/img409.jpg)
 
-[![Alt text](https://img.youtube.com/vi/eXjxy_7W7GQ/3.jpg)](https://www.youtube.com/watch?v=eXjxy_7W7GQ)
+**VIDEO**
+[![Alt text](https://img.youtube.com/vi/eXjxy_7W7GQ/0.jpg)](https://www.youtube.com/watch?v=eXjxy_7W7GQ)
 
 ## Observations
 We had following observations as we did this project:
