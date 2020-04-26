@@ -35,6 +35,7 @@ As you can see in the collage image above, a lot is going on, and if you are cre
 
 
 **Results**
+
 After training for 300 Epochs, results look awesome!
 
 ![image](https://raw.githubusercontent.com/abhinavdayal/YOLOV3/master/output/img260.jpg)
@@ -43,6 +44,10 @@ After training for 300 Epochs, results look awesome!
 **VIDEO**
 
 [![Alt text](https://img.youtube.com/vi/eXjxy_7W7GQ/0.jpg)](https://www.youtube.com/watch?v=eXjxy_7W7GQ)
+
+**Training Performance**
+
+![training perf](https://raw.githubusercontent.com/abhinavdayal/YOLOV3/master/results.png)
 
 ## Observations
 We had following observations as we did this project:
