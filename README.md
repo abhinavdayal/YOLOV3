@@ -40,6 +40,8 @@ After training for 300 Epochs, results look awesome!
 ![image](https://raw.githubusercontent.com/abhinavdayal/YOLOV3/master/output/img260.jpg)
 ![image](https://raw.githubusercontent.com/abhinavdayal/YOLOV3/master/output/img409.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eXjxy_7W7GQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Observations
 We had following observations as we did this project:
 1. The network trained for classes and bbox from beginning as opposed to first 100 iterations only classes and then bbox. Probably this is due to us using transfer learning
