@@ -40,7 +40,7 @@ After training for 300 Epochs, results look awesome!
 ![image](https://raw.githubusercontent.com/abhinavdayal/YOLOV3/master/output/img260.jpg)
 ![image](https://raw.githubusercontent.com/abhinavdayal/YOLOV3/master/output/img409.jpg)
 
-**Observations**
+## Observations
 We had following observations as we did this project:
 1. The network trained for classes and bbox from beginning as opposed to first 100 iterations only classes and then bbox. Probably this is due to us using transfer learning
 2. We calculated oour own kmeans [anchor boxes](https://raw.githubusercontent.com/abhinavdayal/YOLOV3/master/anchors/anchors9.txt) However when we u sed those the model did not train. Again because we are using transfer learning we had to use the same bbox as the base model was trained for.
