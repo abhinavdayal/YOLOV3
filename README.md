@@ -37,8 +37,8 @@ As you can see in the collage image above, a lot is going on, and if you are cre
 **Results**
 After training for 300 Epochs, results look awesome!
 
-![image](https://github.com/theschoolofai/YoloV3/blob/master/output/img006.jpeg)
-
+![image](https://raw.githubusercontent.com/abhinavdayal/YOLOV3/master/output/img260.jpg)
+![image](https://raw.githubusercontent.com/abhinavdayal/YOLOV3/master/output/img409.jpg)
 
 **Observations**
 We had following observations as we did this project:
