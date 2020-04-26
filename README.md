@@ -37,4 +37,12 @@ As you can see in the collage image above, a lot is going on, and if you are cre
 **Results**
 After training for 300 Epochs, results look awesome!
 
-![image](https://github.com/theschoolofai/YoloV3/blob/master/output/image005.jpeg)
+![image](https://github.com/theschoolofai/YoloV3/blob/master/output/img006.jpeg)
+
+
+**Observations**
+We had following observations as we did this project:
+1. The network trained for classes and bbox from beginning as opposed to first 100 iterations only classes and then bbox. Probably this is due to us using transfer learning
+2. We calculated oour own kmeans [anchor boxes](https://raw.githubusercontent.com/abhinavdayal/YOLOV3/master/anchors/anchors9.txt) However when we u sed those the model did not train. Again because we are using transfer learning we had to use the same bbox as the base model was trained for.
+3. We tried other image augmentations, but RICAP itself is good and adding more did not help, instead it deteriorated the performance.
+4. Given more data it will probably perform even better
